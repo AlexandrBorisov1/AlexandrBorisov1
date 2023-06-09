@@ -10,7 +10,7 @@
 * Кликни [сюда](https://github.com/AlexandrBorisov1?tab=repositories) чтобы посмотреть мои проекты
 
 ### 💡 Основные компетенции 💡
-- Инструменты: Python, Git, Pandas
+- Инструменты: Python, Git, Pandas, NumPy, Matplotlib, Seaborn
 - Skills: 
     * Data Cleaning and Wrangling, Data Visualisation, Data Analysis
     * Soft skills
@@ -31,8 +31,12 @@
 * I started studying Data Science in 2022.
 * The application of DS in fintech, science and robotics is interesting.
 
+### 📚 Projects 📚
+
+* Click [here](https://github.com/AlexandrBorisov1?tab=repositories) to see my projects
+
 ### 💡 Core competencies 💡
-- Tools: Python, Git, Pandas
+- Tools: Python, Git, Pandas, NumPy, Matplotlib, Seaborn
   - Skills:
     * Data Cleaning and Wrangling, Data Visualisation, Data Analysis
     * Soft skills
