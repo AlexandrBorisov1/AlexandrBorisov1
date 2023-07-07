@@ -1,4 +1,4 @@
-### Привет! :earth_europe:
+### Привет! :earth_africa:
 
 ### :milky_way: Обо мне: :milky_way: 
 * <p><i>Увлекался программированием ещё с школьных лет. Первый язык программирования был Delphi, затем C++ и C#, но это было достаточно давно и со временем подзабылось, сейчас сосредоточен на Python.</i></p>
@@ -24,7 +24,7 @@
 
 ---
 
-### Hello! :earth_europe:
+### Hello! :earth_africa:
 
 ### :milky_way: About me: :milky_way: 
 * <p><i>I have been into programming since my school days. The first programming language was Delphi, then C++ and C#, but that was a long time ago and was forgotten over time, now I focus on Python.</i></p>
