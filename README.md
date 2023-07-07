@@ -5,7 +5,7 @@
 * Изучать Data Science начал с 2022 года.
 * Интересно применение DS в финтехе, науке и робототехнике.
 
-### 📚 Проекты 📚
+### :space_invader: Проекты :space_invader:
 
 * Кликни [сюда](https://github.com/AlexandrBorisov1?tab=repositories) чтобы посмотреть мои проекты
 
@@ -31,7 +31,7 @@
 * I started studying Data Science in 2022.
 * The application of DS in fintech, science and robotics is interesting.
 
-### 📚 Projects 📚
+### :space_invader: Projects :space_invader:
 
 * Click [here](https://github.com/AlexandrBorisov1?tab=repositories) to see my projects
 
