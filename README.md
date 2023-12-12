@@ -10,13 +10,14 @@
 * Кликни [сюда](https://github.com/AlexandrBorisov1?tab=repositories) чтобы посмотреть мои проекты
 
 ### :black_large_square: `Основные компетенции` :black_large_square:
-- Инструменты: Python, Git, Pandas, NumPy, Matplotlib, Seaborn
+- Инструменты: Python, Git, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - Skills: 
     * Data Cleaning and Wrangling, Data Visualisation, Data Analysis
     * Soft skills
 
 ### :computer: `В настоящее время` :computer:
 - Прохожу курс: Data Science в Skillfactory
+- Прохожу курс: Нейронные сети и компьютерное зрение на Stepik.org
 
 ### :satellite: Свяжись со мной
 - [Telegram](https://t.me/alexandrborisov0o)
@@ -36,13 +37,14 @@
 * Click [here](https://github.com/AlexandrBorisov1?tab=repositories) to see my projects
 
 ### :black_large_square: `Core competencies` :black_large_square:
-- Tools: Python, Git, Pandas, NumPy, Matplotlib, Seaborn
+- Tools: Python, Git, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
   - Skills:
     * Data Cleaning and Wrangling, Data Visualisation, Data Analysis
     * Soft skills
 
 ### :computer: `Currently` :computer:
 - I am taking a course: Data Science at Skillfactory
+- I am taking a course: Neural networks and computer vision on Stepik.org
 
 ### :satellite: Contact me
 - [Telegram](https://t.me/alexandrborisov0o)
